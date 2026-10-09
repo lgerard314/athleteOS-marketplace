@@ -1,0 +1,18 @@
+{
+  "name": "athleteOS-plugins",
+  "owner": {
+    "name": "lgerard314"
+  },
+  "description": "Claude Code plugins for AthleteOS work.",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "aos-ppt-design",
+      "source": {
+        "source": "github",
+        "repo": "lgerard314/aOS-ppt-design"
+      },
+      "description": "AthleteOS brand design guidelines for PowerPoint: colour, type, layout, shapes, photography and logo rules, with the logo and font files."
+    }
+  ]
+}
