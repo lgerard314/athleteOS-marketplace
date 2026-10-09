@@ -8,7 +8,7 @@ The `athleteOS-plugins` marketplace: the catalog of Claude Code plugins for Athl
 /plugin marketplace add lgerard314/athleteOS-marketplace
 ```
 
-This repository and the plugin repositories are private, so the machine needs git access to them.
+This repository and the plugin repository are public, so no access needs granting.
 
 ## Plugins
 
